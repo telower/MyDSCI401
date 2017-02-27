@@ -1,2 +1,2 @@
 # MyDSCI401
-Small repo for DSCI 401 stuff
+This repo holds code for DSCI 401
